@@ -61,11 +61,6 @@ body{
     background-color: antiquewhite;
     border: thin solid black;
     margin-bottom: 5%;
-    width: 100%;
-}
-
-.infographic-items{
-    max-width: 100%;
 }
 
 #education-header{
