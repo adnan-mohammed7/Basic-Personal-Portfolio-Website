@@ -63,6 +63,10 @@ body{
     margin-bottom: 5%;
 }
 
+.infographic-items{
+    max-width: 100%;
+}
+
 #education-header{
     border: thin solid black;
     background-color: burlywood;
