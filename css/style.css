@@ -37,24 +37,12 @@ body{
     margin-left: 1vw;
 }
 
-.information{
-    display: flex;
-}
-
-#Basic-Info{
-    margin-right: 3%;
-}
-
 #info-list{
     text-align: left;
 }
 
 #subject-list{
     text-align: left;
-}
-
-#date{
-    align-self: flex-end;
 }
 
 .infographic{
