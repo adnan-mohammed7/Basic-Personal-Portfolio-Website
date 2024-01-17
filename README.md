@@ -18,6 +18,7 @@ This repository focuses on the essentials of web development, emphasizing basic 
 
 # Hosting
 The project is conveniently hosted on Netlify, allowing easy access for review and evaluation. The Netlify platform simplifies deployment and hosting processes, providing a seamless experience for both developers and users.
+* Link: https://web222-finalassessment-adnanmohammed.netlify.app/
 
 # How to Access
 Feel free to explore the project by visiting the hosted site on Netlify: Web222-FinalAssessment.
