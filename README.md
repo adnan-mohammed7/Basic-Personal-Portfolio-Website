@@ -1,5 +1,7 @@
 # Web222-FinalAssessment
 
+![HTML-CSS-y-JavaScript-el-estándar-universal](https://github.com/adnan-mohammed7/Basic-Personal-Portfolio-Website/assets/141707043/bb7bbe92-0f5e-417c-a9dc-b4ad200c2b6b)
+
 Welcome to my Final Assessment for Web Development! This project is a culmination of my efforts in mastering fundamental topics such as JAVASCRIPT, CSS, and HTML during April 2022.
 
 # Overview
@@ -16,6 +18,7 @@ This repository focuses on the essentials of web development, emphasizing basic 
 
 # Hosting
 The project is conveniently hosted on Netlify, allowing easy access for review and evaluation. The Netlify platform simplifies deployment and hosting processes, providing a seamless experience for both developers and users.
+* Link: https://web222-finalassessment-adnanmohammed.netlify.app/
 
 # How to Access
 Feel free to explore the project by visiting the hosted site on Netlify: Web222-FinalAssessment.
